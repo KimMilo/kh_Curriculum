@@ -1,7 +1,6 @@
 package kr.co.exam01;
 
 public class Exam01 {
-	
 	public static void main(String[] args) {
 		System.out.println("1. 변수 저장 및 출력");
 		// 1. 문자열 변수 name에 본인의 이름을 저장
@@ -44,6 +43,5 @@ public class Exam01 {
 		System.out.println("2-3 .pritln()");
 		System.out.println("저의 이름은 " + name2 + "입니다. " + "올해 " + age2 + "세이며, "
 						+ "내년에는 " + (age2+1) + "세가 됩니다.");
-					
 	}
 }
