@@ -80,6 +80,18 @@
  <div>🔶 로또데이터(저장)</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235288943-3850fb16-1969-4fea-b172-201c33e3114d.gif">
 </div><br>
-
-
+<div align="center">
+ <div>🔶 총점 및 평균</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235289059-9ede8474-81dd-450e-b9a5-0f8489346970.gif"><br><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235289163-9dbd3f4c-5c7d-4cf2-b21c-94b27ea23228.gif">
+</div><br>
+<div align="center">
+ <div>🔶 네트워크 연결(UDP/TCP)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235289449-be903c60-1d62-4ad6-8a2e-06794849973a.gif"><br><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235289754-098f8671-a2fd-4392-bbbf-82f6a5da2972.gif"><br><br>
+</div><br>
+<div align="center">
+ <div>🔶 </div><br>
+ <img src="">
+</div><br>
 
