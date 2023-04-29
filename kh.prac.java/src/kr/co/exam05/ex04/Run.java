@@ -16,16 +16,13 @@ public class Run {
 		 */
 		
 		Speaker sp1 = new Speaker();
-		//Speaker sp2 = new Speaker(50);
-		//Speaker sp3 = new Speaker(50, true);
-		//Speaker sp4 = new Speaker(50, true, true);
 		
 		sp1.togglePower();
-		//sp1.volumeUp();
-		//sp1.volumeUp();
-		//sp1.volumeDown();
-		//sp1.toggleMute();
-		//sp1.togglePower();
+		sp1.volumeUp();
+		sp1.volumeUp();
+		sp1.volumeDown();
+		sp1.toggleMute();
+		sp1.togglePower();
 		System.out.println(sp1.getState());
 	}
 }

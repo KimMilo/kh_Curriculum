@@ -17,6 +17,32 @@ public class BirthDay {
 	private int day;
 	private SimpleDateFormat dateFormat;
 
+	
+	/**
+	 * 정수값에 해당하는 년, 월, 일을 입력받아 BirthDay 객체를 생성하기 위한
+	 * 생성자.
+	 *  
+	 * @param year : 태어난 년도
+	 * @param month : 태어난 달
+	 * @param date : 태어난 일자
+	 */
+	public BirthDay(int year, int month, int date) {
+		if(!(month >= 1 && month <= 12)) {
+			throw new MonthRangeException(month + "월은 잘못된 월입니다.");
+		}
+		
+		if(!(date >= 1 && date <= 31)) {
+			throw new DayRangeException(date + "일은 잘못된 일자입니다.");
+		}
+		
+		this.date = (new GregorianCalendar(year, month - 1, date)).getTime();
+		this.year = year;
+		this.month = month;
+		this.day = date;
+	}
+	
+	
+	
 	/**
 	 * 6자리(yymmdd) 또는 8자리(yyyymmdd) 날짜 형식을 받아서 BirthDay
 	 * 객체를 생성하기 위한 생성자.
@@ -44,28 +70,6 @@ public class BirthDay {
 		
 	}
 	
-	/**
-	 * 정수값에 해당하는 년, 월, 일을 입력받아 BirthDay 객체를 생성하기 위한
-	 * 생성자.
-	 *  
-	 * @param year : 태어난 년도
-	 * @param month : 태어난 달
-	 * @param date : 태어난 일자
-	 */
-	public BirthDay(int year, int month, int date) {
-		if(!(month >= 1 && month <= 12)) {
-			throw new MonthRangeException(month + "월은 잘못된 월입니다.");
-		}
-		
-		if(!(date >= 1 && date <= 31)) {
-			throw new DayRangeException(date + "일은 잘못된 일자입니다.");
-		}
-		
-		this.date = (new GregorianCalendar(year, month - 1, date)).getTime();
-		this.year = year;
-		this.month = month;
-		this.day = date;
-	}
 	
 	/**
 	 * java.util.Date 클래스를 입력 받아 BirthDay 객체를 생성하기 위한 생성자.
