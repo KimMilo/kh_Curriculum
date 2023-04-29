@@ -64,10 +64,6 @@
  <img src="https://user-images.githubusercontent.com/115056845/235286326-77f38ca5-d687-4dc7-a3cb-a964bfe6d8d7.gif">
 </div><br>
 <div align="center">
- <div>🔶 사용자 예외처리</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235286537-99e34038-9c06-48f4-ba53-37cc16ac8cca.gif">
-</div><br>
-<div align="center">
  <div>🔶 Exception</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235286537-99e34038-9c06-48f4-ba53-37cc16ac8cca.gif"><br><br>
  <img src="https://user-images.githubusercontent.com/115056845/235286644-a0f3b378-fe83-4f22-a9b0-4c197a353661.gif">
