@@ -83,7 +83,7 @@
 <div align="center">
  <div>🔶 총점 및 평균</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235289059-9ede8474-81dd-450e-b9a5-0f8489346970.gif"><br><br>
- <img src="https://user-images.githubusercontent.com/115056845/235289163-9dbd3f4c-5c7d-4cf2-b21c-94b27ea23228.gif">
+ <img width="800px;" src="https://user-images.githubusercontent.com/115056845/235289163-9dbd3f4c-5c7d-4cf2-b21c-94b27ea23228.gif">
 </div><br>
 <div align="center">
  <div>🔶 네트워크 연결(UDP/TCP)</div><br>
