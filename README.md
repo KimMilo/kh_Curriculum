@@ -45,7 +45,7 @@
 </div><br>
 <div align="center">
  <div>🔶 학생성적관리</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235285770-869a451e-2516-4113-a485-027ea96553d4.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235287960-e32153f1-04db-4abf-8397-f994accf9e63.gif">
 </div><br>
 <div align="center">
  <div>🔶 직원업무</div><br>
@@ -53,7 +53,7 @@
 </div><br>
 <div align="center">
  <div>🔶 주민번호</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235286216-ebc57682-4315-4124-ad87-92996e044817.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235288233-cb697da0-e404-455d-9ec6-cc0f2848b4a4.gif">
 </div><br>
 <div align="center">
  <div>🔶 주말구하기</div><br>
@@ -73,7 +73,13 @@
  <img src="https://user-images.githubusercontent.com/115056845/235287289-42cd6458-d915-4e22-bfbf-962155c60227.gif">
 </div><br>
 <div align="center">
- <div>🔶  </div><br>
- <img src="">
+ <div>🔶 성적데이터(수정/저장)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235288707-e179a9c2-0819-4630-97d8-f65df45cece0.gif">
 </div><br>
+<div align="center">
+ <div>🔶 로또데이터(저장)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235288943-3850fb16-1969-4fea-b172-201c33e3114d.gif">
+</div><br>
+
+
 
