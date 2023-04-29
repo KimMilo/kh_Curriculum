@@ -53,7 +53,7 @@
 </div><br>
 <div align="center">
  <div>🔶 주민번호</div><br>
- <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235288233-cb697da0-e404-455d-9ec6-cc0f2848b4a4.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235291521-9a2a53de-356e-4a4b-8ca8-457ee4b7084e.gif">
 </div><br>
 <div align="center">
  <div>🔶 주말구하기</div><br>
