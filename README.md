@@ -17,7 +17,7 @@
 </div><br>
 <div align="center">
  <div>🔶 로그인</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235285047-ad686f10-b287-4048-a2ec-adc26bf11002.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235287531-6509051d-07ae-49d5-b01d-5d8e52216f94.gif">
 </div><br>
 <div align="center">
  <div>🔶 입력기회</div><br>
@@ -41,7 +41,7 @@
 </div><br>
 <div align="center">
  <div>🔶 음향객체</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235285614-5fda7b97-3fda-41c7-b19a-dd4f814290cd.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235287691-8f1a5e78-64e3-4c81-8775-0ef78fb3cd70.gif">
 </div><br>
 <div align="center">
  <div>🔶 학생성적관리</div><br>
@@ -70,7 +70,10 @@
 </div><br>
 <div align="center">
  <div>🔶 100년간 생일정보</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235287289-42cd6458-d915-4e22-bfbf-962155c60227.gif">
+</div><br>
+<div align="center">
+ <div>🔶  </div><br>
  <img src="">
 </div><br>
-
 
