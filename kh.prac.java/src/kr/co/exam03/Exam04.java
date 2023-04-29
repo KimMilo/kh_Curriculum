@@ -38,20 +38,6 @@ public class Exam04 {
 		}else {
 			System.out.println("해당하는 아이디가 없습니다.");
 		}
-		
-		/*
-		or
-		
-		if(id.equals(inputId) && password.equals(inputPw)){
-			System.out.println("로그인 성공");		
-		}else {
-			if(!id.equals(inputId)) {
-				System.out.println("해당하는 아이디가 없습니다.");
-			}else {
-				System.out.println("패스워드가 잘못되었습니다.");
-			}
-		}
-		*/
 		sc.close();
 	}
 
