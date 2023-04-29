@@ -5,7 +5,7 @@
 
 <div align="center">
  <div>🔶 BMI 계산</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235284507-1ad6904c-41e0-4ca7-a9e5-f8417fb29ade.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235301294-6ef10bfa-29e0-4320-9cdb-973f487f4b21.gif">
 </div><br>
 <div align="center">
  <div>🔶 초단위 출력</div><br>
@@ -91,7 +91,18 @@
  <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235289754-098f8671-a2fd-4392-bbbf-82f6a5da2972.gif"><br><br>
 </div><br>
 <div align="center">
+ <div>🔶 상속_학생-직원 관리</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235292410-9ba0b12a-365f-4b3e-a64b-0bfd99cfdd3a.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Homework2_OOP(Shape)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235300439-661ce495-53dd-4b4b-b9ac-15d2f9532eab.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Homework2_OOP(Employee)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235300738-3a617424-361f-49b3-9bee-30e78b36884f.gif">
+</div><br>
+<div align="center">
  <div>🔶 </div><br>
  <img src="">
 </div><br>
-
