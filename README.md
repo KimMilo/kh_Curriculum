@@ -9,15 +9,15 @@
 </div><br>
 <div align="center">
  <div>🔶 초단위 출력</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235284721-43f63409-d1af-43b8-9daf-73171900f5b9.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235301468-5814366d-8886-4adb-b4d1-89c7149ea974.gif">
 </div><br>
 <div align="center">
  <div>🔶 더치페이 계산</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235284854-6b92e876-0d74-4e1d-a516-2965984f12f5.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235301610-935cb9d9-bb5c-4daa-9af8-a8071c749881.gif">
 </div><br>
 <div align="center">
  <div>🔶 로그인</div><br>
- <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235287531-6509051d-07ae-49d5-b01d-5d8e52216f94.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235301820-1a1c5901-b7fb-49ee-962b-23a179ffb7a7.gif">
 </div><br>
 <div align="center">
  <div>🔶 입력기회</div><br>
