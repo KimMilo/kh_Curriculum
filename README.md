@@ -17,7 +17,7 @@
 </div><br>
 <div align="center">
  <div>🔶 로그인</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235287531-6509051d-07ae-49d5-b01d-5d8e52216f94.gif">
+ <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235287531-6509051d-07ae-49d5-b01d-5d8e52216f94.gif">
 </div><br>
 <div align="center">
  <div>🔶 입력기회</div><br>
@@ -53,7 +53,7 @@
 </div><br>
 <div align="center">
  <div>🔶 주민번호</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235288233-cb697da0-e404-455d-9ec6-cc0f2848b4a4.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235291521-9a2a53de-356e-4a4b-8ca8-457ee4b7084e.gif">
 </div><br>
 <div align="center">
  <div>🔶 주말구하기</div><br>
@@ -83,12 +83,12 @@
 <div align="center">
  <div>🔶 총점 및 평균</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235289059-9ede8474-81dd-450e-b9a5-0f8489346970.gif"><br><br>
- <img width="800px;" src="https://user-images.githubusercontent.com/115056845/235289163-9dbd3f4c-5c7d-4cf2-b21c-94b27ea23228.gif">
+ <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235289163-9dbd3f4c-5c7d-4cf2-b21c-94b27ea23228.gif">
 </div><br>
 <div align="center">
  <div>🔶 네트워크 연결(UDP/TCP)</div><br>
- <img width="960px;" src="https://user-images.githubusercontent.com/115056845/235289449-be903c60-1d62-4ad6-8a2e-06794849973a.gif"><br><br>
- <img width="960px;" src="https://user-images.githubusercontent.com/115056845/235289754-098f8671-a2fd-4392-bbbf-82f6a5da2972.gif"><br><br>
+ <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235289449-be903c60-1d62-4ad6-8a2e-06794849973a.gif"><br><br>
+ <img width="800px;" height="424px;" src="https://user-images.githubusercontent.com/115056845/235289754-098f8671-a2fd-4392-bbbf-82f6a5da2972.gif"><br><br>
 </div><br>
 <div align="center">
  <div>🔶 </div><br>
