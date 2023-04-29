@@ -12,11 +12,11 @@ public class Exam02 {
 		 * 변수에 저장을 하고 초단위로 환산 후 출력하세요.
 		 * 
 		 * 예시
-		 *    시 : 0
+		 *    시 : 1
 		 *    분 : 10
 		 *    초 : 20
 		 *    
-		 *    총 620초 입니다.
+		 *    총 4220초 입니다.
 		 */
 		
 		Scanner sc = new Scanner(System.in);
