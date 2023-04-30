@@ -103,6 +103,6 @@
  <img src="https://user-images.githubusercontent.com/115056845/235306417-7aaf7062-5fe7-4e74-85c7-859280c44e73.gif">
 </div><br>
 <div align="center">
- <div>🔶 Homewrok3_ObjectArray</div><br>
+ <div>🔶 Homework3_ObjectArray</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235307174-81a8659c-e7ca-4f33-9ff2-15222b78dc36.gif">
 </div><br>
