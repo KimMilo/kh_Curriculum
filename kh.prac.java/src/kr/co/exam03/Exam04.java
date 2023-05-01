@@ -15,7 +15,7 @@ public class Exam04 {
 		 * 패스워드가 일치하지 않은 경우 "해당하는 아이디가 없습니다.",
 		 * "패스워드가 잘못되었습니다." 메시지도 출력되게 하세요.
 		 */
-
+ 
 		Scanner sc = new Scanner(System.in);
 		
 		String id = "user1";
