@@ -19,7 +19,7 @@ public class Exam03 {
 		 * 
 		 * 입금 계좌 정보도 추가로 입력 받아야 합니다.
 		 */
-		
+		 
 		Scanner sc = new Scanner(System.in);
 		
 		int totalAmount, count, perAmount, leftAmount;
