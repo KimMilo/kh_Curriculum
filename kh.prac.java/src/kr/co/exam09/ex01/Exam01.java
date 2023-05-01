@@ -74,7 +74,7 @@ public class Exam01 {
 			// birthday100.txt 파일에 쓰기
 			sb.append(df.format(gc.getTime()) + "\r\n");
 			gc.add(Calendar.YEAR, 1);
-		}
+		} 
 		writeBirthDay("D:\\birthday100.txt", sb.toString());
 		
 	}
