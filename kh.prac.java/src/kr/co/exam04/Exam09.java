@@ -20,7 +20,7 @@ public class Exam09 {
 		 * 		60		70		80		70.00	210
 		 *		60		75		82		72.33	217
 		 *		...		...		...		...		...
-		 */
+		 */ 
 		Scanner sc = new Scanner(System.in);
 		
 		String subjects[] = {"국어", "영어", "수학"};
