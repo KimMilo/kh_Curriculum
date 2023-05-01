@@ -1,5 +1,5 @@
 package kr.co.exam05.ex07;
-
+ 
 import java.util.Scanner;
 
 public class MainMenu {

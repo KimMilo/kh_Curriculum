@@ -1,5 +1,5 @@
 package kr.co.exam05.ex07;
-
+ 
 public class Subject {
 	private String name;
 	private double score;
