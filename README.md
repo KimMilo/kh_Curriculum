@@ -2,7 +2,22 @@
 
 ## ✅ 일부 구현 이미지
 
-
+<div align="center">
+ <div>🔶 상속_학생-직원 관리</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235306126-0acdcb72-0e2a-4580-9e22-6605fa13dcf5.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Homework2_OOP(Shape)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235306342-74a91105-6e36-4205-a92d-9361fe94f38e.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Homework2_OOP(Employee)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235306417-7aaf7062-5fe7-4e74-85c7-859280c44e73.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Homework3_ObjectArray</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235307174-81a8659c-e7ca-4f33-9ff2-15222b78dc36.gif">
+</div><br>
 <div align="center">
  <div>🔶 BMI 계산</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235301294-6ef10bfa-29e0-4320-9cdb-973f487f4b21.gif">
@@ -89,20 +104,4 @@
  <div>🔶 네트워크 연결(UDP/TCP)</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235305368-0d30c4c0-59dd-4da0-9bb2-8937877e76e2.gif"><br><br>
  <img src="https://user-images.githubusercontent.com/115056845/235305475-be2cdda2-1e29-47ab-bb58-8e8b2f6808dd.gif"><br><br>
-</div><br>
-<div align="center">
- <div>🔶 상속_학생-직원 관리</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235306126-0acdcb72-0e2a-4580-9e22-6605fa13dcf5.gif">
-</div><br>
-<div align="center">
- <div>🔶 Homework2_OOP(Shape)</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235306342-74a91105-6e36-4205-a92d-9361fe94f38e.gif">
-</div><br>
-<div align="center">
- <div>🔶 Homework2_OOP(Employee)</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235306417-7aaf7062-5fe7-4e74-85c7-859280c44e73.gif">
-</div><br>
-<div align="center">
- <div>🔶 Homework3_ObjectArray</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235307174-81a8659c-e7ca-4f33-9ff2-15222b78dc36.gif">
 </div><br>
