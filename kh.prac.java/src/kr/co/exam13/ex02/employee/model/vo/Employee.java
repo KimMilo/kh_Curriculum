@@ -1,5 +1,5 @@
 package kr.co.exam13.ex02.employee.model.vo;
-
+ 
 public class Employee {
 	
 	private int empNo;
