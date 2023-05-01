@@ -1,5 +1,5 @@
 package kr.co.exam07.ex01;
-
+ 
 import java.util.Scanner;
 
 public class Exam02 {
