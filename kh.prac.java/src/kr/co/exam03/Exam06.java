@@ -11,7 +11,7 @@ public class Exam06 {
 		 * 1 ~ 45 사이의 값이 저장될 수 있게 한다. (단, 3번의 입력 기회만
 		 * 부여하고 3번의 기회를 넘기면 0 값이 저장되게 한다.)
 		 */
-
+ 
 		Scanner sc = new Scanner(System.in);
 	
 		int num = 0;
