@@ -1,5 +1,5 @@
 package kr.co.exam08.ex03;
-
+ 
 public class Run {
 	public static void main(String[] args) throws UserException {
 		/*

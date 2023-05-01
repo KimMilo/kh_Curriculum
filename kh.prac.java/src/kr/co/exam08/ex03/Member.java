@@ -1,5 +1,5 @@
 package kr.co.exam08.ex03;
-
+ 
 public class Member {
 private String name;
 	

@@ -1,5 +1,5 @@
 package kr.co.exam08.ex02;
-
+ 
 public class DayRangeException extends RuntimeException {
 	
 	public DayRangeException() {

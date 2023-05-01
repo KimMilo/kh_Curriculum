@@ -1,5 +1,5 @@
 package kr.co.exam08.ex02;
-
+ 
 import java.util.Date;
 
 public class Run {
