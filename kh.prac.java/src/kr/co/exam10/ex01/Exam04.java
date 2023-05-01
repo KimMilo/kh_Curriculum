@@ -24,7 +24,7 @@ public class Exam04 {
 		subjectMap.put("과학", Double.valueOf(83.6));
 		subjectMap.put("체육", Double.valueOf(89.0));
 		subjectMap.put("미술", Double.valueOf(78.9));
-		
+		 
 		double sum = 0;
 		for(Double score : subjectMap.values()) {
 			sum += score;
