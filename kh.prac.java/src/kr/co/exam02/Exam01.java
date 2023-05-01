@@ -18,7 +18,7 @@ public class Exam01 {
 		 * 당신의 체질량 지수는 23.35입니다.
 		 * 
 		 */
-		
+		 
 		Scanner sc = new Scanner(System.in);
 		double tall, weight, bmi;
 		System.out.print("키(m) : ");
