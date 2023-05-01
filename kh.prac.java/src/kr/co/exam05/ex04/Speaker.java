@@ -1,5 +1,5 @@
 package kr.co.exam05.ex04;
-
+ 
 public class Speaker {
 	private int volume;
 	private boolean mute;
