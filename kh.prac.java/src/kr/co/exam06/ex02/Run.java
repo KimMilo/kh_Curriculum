@@ -1,5 +1,5 @@
 package kr.co.exam06.ex02;
-
+ 
 public class Run {
 	public static void main(String[] args) {
 	/*

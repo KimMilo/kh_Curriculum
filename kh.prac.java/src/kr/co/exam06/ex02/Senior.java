@@ -1,5 +1,5 @@
 package kr.co.exam06.ex02;
-
+ 
 public class Senior extends Staff {
 	public Senior() {
 		role = "대리";

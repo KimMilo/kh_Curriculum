@@ -1,5 +1,5 @@
 package kr.co.exam06.ex02;
-
+ 
 public class Staff extends Intern {
 	public Staff() {
 		role = "사원";

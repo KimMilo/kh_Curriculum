@@ -1,5 +1,5 @@
 package kr.co.exam06.ex02;
-
+ 
 public class Intern extends Employee {
 	public Intern() {
 		role = "인턴";

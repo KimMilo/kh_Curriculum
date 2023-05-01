@@ -1,5 +1,5 @@
 package kr.co.exam06.ex02;
-
+ 
 public class Manager extends Senior {
 	public Manager() {
 		role = "과장";
