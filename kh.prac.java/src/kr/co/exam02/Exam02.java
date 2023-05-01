@@ -18,7 +18,7 @@ public class Exam02 {
 		 *    
 		 *    총 4220초 입니다.
 		 */
-		
+		 
 		Scanner sc = new Scanner(System.in);
 		int hour, minute, second, total;
 		
