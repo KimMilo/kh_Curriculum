@@ -23,7 +23,7 @@ public class Exam09 {
 		 *  23   24   25   26   27   28   29
 		 *  30   31
 		 * 
-		 */
+		 */ 
 		System.out.println("======= 답 =======");
 		Scanner sc = new Scanner(System.in);
 		int month, day = 0, lastDay;
