@@ -1,5 +1,5 @@
 package kr.co.exam05.ex03;
-
+ 
 public class Clock {
 	private int hour;
 	private int minute;
