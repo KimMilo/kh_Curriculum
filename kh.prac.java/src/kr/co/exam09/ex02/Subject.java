@@ -1,5 +1,5 @@
 package kr.co.exam09.ex02;
-
+ 
 import java.util.Objects;
 
 public class Subject {
