@@ -1,5 +1,5 @@
 package kr.co.exam13.ex03.member.model.vo;
-
+ 
 public class Member {
 	
 	private String id;
