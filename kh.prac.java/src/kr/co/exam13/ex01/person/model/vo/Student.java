@@ -1,5 +1,5 @@
 package kr.co.exam13.ex01.person.model.vo;
-
+ 
 public class Student extends Person{
 	
 	private int grade;

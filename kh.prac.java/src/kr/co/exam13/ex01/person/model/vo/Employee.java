@@ -1,7 +1,7 @@
 package kr.co.exam13.ex01.person.model.vo;
 
 public class Employee extends Person {
-
+ 
 	private int salary;
 	private String dept;
 	

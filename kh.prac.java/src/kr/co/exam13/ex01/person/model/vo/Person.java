@@ -1,5 +1,5 @@
 package kr.co.exam13.ex01.person.model.vo;
-
+ 
 public class Person {
 	private String name;
 	private int age;

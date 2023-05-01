@@ -2,7 +2,7 @@ package kr.co.exam13.ex01.person.controller;
 
 import kr.co.exam13.ex01.person.model.vo.Employee;
 import kr.co.exam13.ex01.person.model.vo.Student;
-
+ 
 public class PersonController { 
 	
 	private Student[] s = new Student[3];
