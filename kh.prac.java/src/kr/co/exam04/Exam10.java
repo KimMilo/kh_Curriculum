@@ -71,7 +71,7 @@ public class Exam10 {
 		 * {1,5,3,9,5,5,7,1,3,9} , 
 		 * {9,11,7,15,11,13,11,3,9,17}}
 		 */
-		
+		 
 		System.out.println("======= 문제4 =======");
 		int arr3[][] = Arrays.copyOf(arr2, arr2.length + 1);
 		arr3[2] = new int[0];
