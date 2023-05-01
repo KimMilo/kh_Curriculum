@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.TreeSet;
-
+ 
 public class Exam03 {
 	/* TreeSet 사용 : 정렬 기능이 있음.
 	 * 

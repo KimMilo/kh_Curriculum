@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Random;
 import java.util.Scanner;
-
+ 
 public class Exam02 {
 	/* HashSet 사용
 	 * 로또 번호 생성
