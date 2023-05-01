@@ -86,7 +86,7 @@ public class Exam04 {
 				}
 				cNow = new GregorianCalendar();
 				//dDay구하고 cNow는 리셋
-		
+		 
 		System.out.printf("현재 날짜는 %s 입니다.\n", df.format(cNow.getTime()));
 		System.out.printf("당신의 다음 생일은 %s 입니다.\n", df.format(cBirthDay.getTime()));
 		System.out.printf("D-Day %d 일 입니다." , dDay);
