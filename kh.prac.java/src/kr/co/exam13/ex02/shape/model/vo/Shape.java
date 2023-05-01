@@ -1,5 +1,5 @@
 package kr.co.exam13.ex02.shape.model.vo;
-
+ 
 public class Shape {
 	
 	private int type;
